@@ -1,60 +1,233 @@
 [
     {   
         "id" :"1",
-        "name":"1",
-        "img_url":"https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517476907.jpg",
+        "name":"毕业狂欢夜第一季",
+        "type":"tv",
+        "location":"美国",
+        "describe":"美剧",
+        "score":"9.0",
+        "time":"2018-05-20",
+        "director":"布莱恩·丹内利",
+        "lead":"Brec Bassinger Tetona Jackson Jenn McAllister 特昆·里奇蒙德 ",
+        "img_url":"http://wx2.sinaimg.cn/mw690/b36fa20dgy1frh39o9iffj207s0biweo.jpg",
+        "introduce":"毕业狂欢夜第一季是由Brec Bassinger Tetona Jackson Jenn McAllister 特昆·里奇蒙德 联合主演的欧美剧，该片2018上映，毕业狂欢夜第一季被安狐影院 - 最新最全最受欢迎的影视网站收录于欧美剧栏目，影片主要讲述了Hulu拿下AwesomenessTV制片的10集半小时喜剧《All Night》，由Jason Ubaldi主创﹑Brian Dannelly执导的《All Night》讲述一群毕业生在通宵的毕业派对上，决定不惜一切令高校时的梦想成真。演员已经找齐，Chris Avila饰演Stymie﹑Brec Bassinger饰演Roni﹑Chanel Celaya饰演Stefania﹑Ty Doran饰演 Bryce﹑Teala Dunn饰演Alexis﹑Allie Grant饰演Melinda﹑Caleb Ray饰演Jonas﹑Eva Gutowski饰演Lyssee﹑Tetona Jackson饰演Cassie﹑Gus Kamp饰演Gerald﹑Tom Maden饰演Nino﹑Jenn McAllister饰演Deanna﹑Austin North饰演Oz﹑Tequan Richmond饰演Christian﹑Chester Rushing饰演 Cody﹑Jake Short饰演Fig﹑Chance Sutton饰演Drunk Bernie﹑Noureen DeWulf饰演 Lewis女士﹑Kate Flannery饰演Saperstein校长﹑Dawan Owens饰演Lewis教练。这是Hulu第二部从AwesomenessTV拿下的剧，第一部是《畸变 Freakish》。。以上就是毕业狂欢夜第一季影片的介绍！感谢演员：Brec Bassinger,Tetona Jackson,Jenn McAllister,特昆·里奇蒙德给我们带来精彩的影片! ",
+        "latest":"4",
         "play_url":[
             {
-                "1":"http://jx.kqk8.com/xxx/4k.php?url=https://www3.laqddc.com/hls/2018/05/14/Vw6MFiAB/playlist.m3u8"
+                "1":"http://youku.cdn-56.com/share/f076073b2082f8741a9cd07b789c77a0",
+                "2":"http://youku.cdn-56.com/share/a6db4ed04f1621a119799fd3d7545d3d",
+                "3":"http://youku.cdn-56.com/share/379a7ba015d8bf1c70b8add2c287c6fa",
+                "4":"http://youku.cdn-56.com/share/a57e8915461b83adefb011530b711704"
             }
         ],
-        "latest":"2",
-        "type":"惊悚",
-        "introduce":"movie"
+        "vip_url":[
+            {
+                "iqiyi":"http://www.iqiyi.com/v_19rrdbwalc.html"
+            }
+        ],
+        "baiduyun_url":[
+            {
+                "url":"http://www.iqiyi.com/v_19rrd44ck4.html",
+                "code":"01fe"
+            }
+        ]
     },
-    {    "id" :"2",
-        "name":"2",
-        "img_url":"https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517476907.jpg",
+    {   
+        "id" :"2",
+        "name":"死侍2",
+        "type":"movie",
+        "location":"美国",
+        "describe":"动作片",
+        "score":"9.0",
+        "time":"2018-05-20",
+        "director":"大卫·雷奇 ",
+        "lead":"瑞安·雷诺兹 乔什·布洛林 莫蕾娜·巴卡林 布里安娜·希德布兰德 ",
+        "img_url":"http://img.zxh.net.cn/upload/vod/2018-05/15265516856.jpg",
+        "introduce":"死侍2是由瑞安·雷诺兹 乔什·布洛林 莫蕾娜·巴卡林 布里安娜·希德布兰德 联合主演的动作片，该片2018上映，死侍2被安狐影院 - 最新最全最受欢迎的影视网站收录于动作片栏目，影片主要讲述了福斯在CinemaCon宣布《死侍2》已在开发中，主演瑞安·雷诺兹、导演蒂姆·米勒、编剧略特·里斯&保罗·韦尼克将悉数回归，与死侍颇有渊源的锁链（Cable）一角将出现在续集中。",
+        "latest":"1",
         "play_url":[
             {
-                "1":"http://jx.kqk8.com/xxx/4k.php?url=https://www3.laqddc.com/hls/2018/05/14/Vw6MFiAB/playlist.m3u8"
+                "1":"http://youku.cdn2-youku.com/share/d1e7b08bdb7783ed4fb10abe92c22ffd",
+                "2":"https://xmr.yezisp.com/jx02.php?url=http://vd3.bdstatic.com/mda-iei7mc06k5ubya3p/hd/mda-iei7mc06k5ubya3p.mp4",
+                "3":"http://youku.cdn-56.com/share/379a7ba015d8bf1c70b8add2c287c6fa",
+                "4":"http://zhjiexi.cn/jx.php?url=http://youku163.zuida-bofang.com/20180518/5803_753b7ec9/index.m3u8"
             }
         ],
-        "type":"惊悚",
-        "introduce":"movie"
+        "vip_url":[
+            {
+                "iqiyi":"http://www.iqiyi.com/v_19rrdbwalc.html"
+            }
+        ],
+        "baiduyun_url":[
+            {
+                "url":"http://www.iqiyi.com/v_19rrd44ck4.html",
+                "code":"01fe"
+            }
+        ]
     },
-    { "id" :"3",
-        "name":"3",
-        "img_url":"https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517476907.jpg",
+    {   
+        "id" :"3",
+        "name":"极限挑战 第四季",
+        "type":"show",
+        "location":"中国",
+        "describe":"综艺",
+        "score":"9.0",
+        "time":"2018-05-20",
+        "director":" ",
+        "lead":"黄渤 黄磊 孙红雷 张艺兴 罗志祥 王迅",
+        "img_url":"http://img.zxh.net.cn/upload/vod/2018-05/15251923561.jpg",
+        "introduce":"极限挑战 第四季是由黄渤 黄磊 孙红雷 张艺兴 罗志祥 王迅 联合主演的综艺，该片2018上映，极限挑战 第四季被安狐影院 - 最新最全最受欢迎的影视网站收录于综艺栏目，影片主要讲述了《极限挑战》是东方卫视打造的一档大型原创励志星素互动综艺节目。本季由黄渤、孙红雷、黄磊、罗志祥、王迅、张艺兴组成的“极限男人帮”原班人马再度登场，欢乐继续上演。",
+        "latest":"2018-05-20",
         "play_url":[
             {
-                "1":"http://jx.kqk8.com/xxx/4k.php?url=https://www3.laqddc.com/hls/2018/05/14/Vw6MFiAB/playlist.m3u8"
+                "1":"http://www.iqiyi.com/v_19rrd44ck4.html",
+                "2":"http://www.iqiyi.com/v_19rrd44ck4.html",
+                "3":"http://www.iqiyi.com/v_19rrdbwalc.html",
+                "4":"http://www.iqiyi.com/v_19rrd44ck4.html"
             }
         ],
-        "type":"惊悚",
-        "introduce":"movie"
+        "vip_url":[
+            {
+                "iqiyi":"http://www.iqiyi.com/v_19rrdbwalc.html"
+            }
+        ],
+        "baiduyun_url":[
+            {
+                "url":"http://www.iqiyi.com/v_19rrd44ck4.html",
+                "code":"01fe"
+            }
+        ]
     },
-    { "id" :"4",
-        "name":"4",
-        "img_url":"https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517476907.jpg",
+    {   
+        "id" :"4",
+        "name":"毕业狂欢夜第er季",
+        "type":"tv",
+        "location":"美国",
+        "describe":"美剧",
+        "score":"9.0",
+        "time":"2018-05-20",
+        "director":"布莱恩·丹内利",
+        "lead":"Brec Bassinger Tetona Jackson Jenn McAllister 特昆·里奇蒙德 ",
+        "img_url":"http://wx2.sinaimg.cn/mw690/b36fa20dgy1frh39o9iffj207s0biweo.jpg",
+        "introduce":"毕业狂欢夜第一季是由Brec Bassinger Tetona Jackson Jenn McAllister 特昆·里奇蒙德 联合主演的欧美剧，该片2018上映，毕业狂欢夜第一季被安狐影院 - 最新最全最受欢迎的影视网站收录于欧美剧栏目，影片主要讲述了Hulu拿下AwesomenessTV制片的10集半小时喜剧《All Night》，由Jason Ubaldi主创﹑Brian Dannelly执导的《All Night》讲述一群毕业生在通宵的毕业派对上，决定不惜一切令高校时的梦想成真。演员已经找齐，Chris Avila饰演Stymie﹑Brec Bassinger饰演Roni﹑Chanel Celaya饰演Stefania﹑Ty Doran饰演 Bryce﹑Teala Dunn饰演Alexis﹑Allie Grant饰演Melinda﹑Caleb Ray饰演Jonas﹑Eva Gutowski饰演Lyssee﹑Tetona Jackson饰演Cassie﹑Gus Kamp饰演Gerald﹑Tom Maden饰演Nino﹑Jenn McAllister饰演Deanna﹑Austin North饰演Oz﹑Tequan Richmond饰演Christian﹑Chester Rushing饰演 Cody﹑Jake Short饰演Fig﹑Chance Sutton饰演Drunk Bernie﹑Noureen DeWulf饰演 Lewis女士﹑Kate Flannery饰演Saperstein校长﹑Dawan Owens饰演Lewis教练。这是Hulu第二部从AwesomenessTV拿下的剧，第一部是《畸变 Freakish》。。以上就是毕业狂欢夜第一季影片的介绍！感谢演员：Brec Bassinger,Tetona Jackson,Jenn McAllister,特昆·里奇蒙德给我们带来精彩的影片! ",
+        "latest":"4",
         "play_url":[
             {
-                "1":"http://jx.kqk8.com/xxx/4k.php?url=https://www3.laqddc.com/hls/2018/05/14/Vw6MFiAB/playlist.m3u8"
+                "1":"http://youku.cdn-56.com/share/f076073b2082f8741a9cd07b789c77a0",
+                "2":"http://youku.cdn-56.com/share/a6db4ed04f1621a119799fd3d7545d3d",
+                "3":"http://youku.cdn-56.com/share/379a7ba015d8bf1c70b8add2c287c6fa",
+                "4":"http://youku.cdn-56.com/share/a57e8915461b83adefb011530b711704"
             }
         ],
-        "type":"惊悚",
-        "introduce":"movie"
+        "vip_url":[
+            {
+                "iqiyi":"http://www.iqiyi.com/v_19rrdbwalc.html"
+            }
+        ],
+        "baiduyun_url":[
+            {
+                "url":"http://www.iqiyi.com/v_19rrd44ck4.html",
+                "code":"01fe"
+            }
+        ]
     },
-    { "id" :"5",
-        "name":"5",
-        "img_url":"https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517476907.jpg",
+    {   
+        "id" :"5",
+        "name":"死侍er",
+        "type":"movie",
+        "location":"美国",
+        "describe":"动作片",
+        "score":"9.0",
+        "time":"2018-05-20",
+        "director":"大卫·雷奇 ",
+        "lead":"瑞安·雷诺兹 乔什·布洛林 莫蕾娜·巴卡林 布里安娜·希德布兰德 ",
+        "img_url":"http://img.zxh.net.cn/upload/vod/2018-05/15265516856.jpg",
+        "introduce":"死侍2是由瑞安·雷诺兹 乔什·布洛林 莫蕾娜·巴卡林 布里安娜·希德布兰德 联合主演的动作片，该片2018上映，死侍2被安狐影院 - 最新最全最受欢迎的影视网站收录于动作片栏目，影片主要讲述了福斯在CinemaCon宣布《死侍2》已在开发中，主演瑞安·雷诺兹、导演蒂姆·米勒、编剧略特·里斯&保罗·韦尼克将悉数回归，与死侍颇有渊源的锁链（Cable）一角将出现在续集中。",
+        "latest":"1",
         "play_url":[
             {
-                "1":"http://jx.kqk8.com/xxx/4k.php?url=https://www3.laqddc.com/hls/2018/05/14/Vw6MFiAB/playlist.m3u8"
+                "1":"http://youku.cdn2-youku.com/share/d1e7b08bdb7783ed4fb10abe92c22ffd",
+                "2":"http://vd3.bdstatic.com/mda-iei7mc06k5ubya3p/hd/mda-iei7mc06k5ubya3p.mp4",
+                "3":"http://youku.cdn-56.com/share/379a7ba015d8bf1c70b8add2c287c6fa",
+                "4":"http://zhjiexi.cn/jx.php?url=http://youku163.zuida-bofang.com/20180518/5803_753b7ec9/index.m3u8"
             }
         ],
-        "type":"惊悚",
-        "introduce":"movie"
+        "vip_url":[
+            {
+                "iqiyi":"http://www.iqiyi.com/v_19rrdbwalc.html"
+            }
+        ],
+        "baiduyun_url":[
+            {
+                "url":"http://www.iqiyi.com/v_19rrd44ck4.html",
+                "code":"01fe"
+            }
+        ]
+    },
+    {   
+        "id" :"6",
+        "name":"极限挑战 1er",
+        "type":"show",
+        "location":"中国",
+        "describe":"综艺",
+        "score":"9.0",
+        "time":"2018-05-20",
+        "director":" ",
+        "lead":"黄渤 黄磊 孙红雷 张艺兴 罗志祥 王迅",
+        "img_url":"http://img.zxh.net.cn/upload/vod/2018-05/15251923561.jpg",
+        "introduce":"极限挑战 第四季是由黄渤 黄磊 孙红雷 张艺兴 罗志祥 王迅 联合主演的综艺，该片2018上映，极限挑战 第四季被安狐影院 - 最新最全最受欢迎的影视网站收录于综艺栏目，影片主要讲述了《极限挑战》是东方卫视打造的一档大型原创励志星素互动综艺节目。本季由黄渤、孙红雷、黄磊、罗志祥、王迅、张艺兴组成的“极限男人帮”原班人马再度登场，欢乐继续上演。",
+        "latest":"2018-05-20",
+        "play_url":[
+            {
+                "1":"http://www.iqiyi.com/v_19rrd44ck4.html",
+                "2":"http://www.iqiyi.com/v_19rrd44ck4.html",
+                "3":"http://www.iqiyi.com/v_19rrdbwalc.html",
+                "4":"http://www.iqiyi.com/v_19rrd44ck4.html"
+            }
+        ],
+        "vip_url":[
+            {
+                "iqiyi":"http://www.iqiyi.com/v_19rrdbwalc.html"
+            }
+        ],
+        "baiduyun_url":[
+            {
+                "url":"http://www.iqiyi.com/v_19rrd44ck4.html",
+                "code":"01fe"
+            }
+        ]
+    },
+    {   
+        "id" :"61",
+        "name":"极dasdasd战 1er",
+        "type":"show",
+        "location":"中国",
+        "describe":"综艺",
+        "score":"9.0",
+        "time":"2018-05-20",
+        "director":" ",
+        "lead":"黄渤 黄磊 孙红雷 张艺兴 罗志祥 王迅",
+        "img_url":"http://img.zxh.net.cn/upload/vod/2018-05/15251923561.jpg",
+        "introduce":"极限挑战 第四季是由黄渤 黄磊 孙红雷 张艺兴 罗志祥 王迅 联合主演的综艺，该片2018上映，极限挑战 第四季被安狐影院 - 最新最全最受欢迎的影视网站收录于综艺栏目，影片主要讲述了《极限挑战》是东方卫视打造的一档大型原创励志星素互动综艺节目。本季由黄渤、孙红雷、黄磊、罗志祥、王迅、张艺兴组成的“极限男人帮”原班人马再度登场，欢乐继续上演。",
+        "latest":"2018-05-20",
+        "play_url":[
+            {
+                "1":"http://www.iqiyi.com/v_19rrd44ck4.html",
+                "2":"http://www.iqiyi.com/v_19rrd44ck4.html",
+                "3":"http://www.iqiyi.com/v_19rrdbwalc.html",
+                "4":"http://www.iqiyi.com/v_19rrd44ck4.html"
+            }
+        ],
+        "vip_url":[
+            {
+                "iqiyi":"http://www.iqiyi.com/v_19rrdbwalc.html"
+            }
+        ],
+        "baiduyun_url":[
+            {
+                "url":"http://www.iqiyi.com/v_19rrd44ck4.html",
+                "code":"01fe"
+            }
+        ]
     }
-
 ]
